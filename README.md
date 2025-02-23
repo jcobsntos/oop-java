@@ -1,11 +1,11 @@
 
 # Collection of Object Oriented Programming Projects using Java
 
-📌 Description
+## 📌 Description
 
 It covers essential OOP concepts, including arithmetic operations, conditions, loops, arrays, encapsulation, polymorphism, interfaces, inheritance, and more.
 
-🚀 Features 
+## 🚀 Features 
 
 Arithmetic & Operators – Basic mathematical operations.
 
